@@ -10,7 +10,5 @@ public class EmployeeWageFirst {
         } else {
             System.out.println("Employee is absent");
         }
-
     }
-
 }
